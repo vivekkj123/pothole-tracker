@@ -22,7 +22,11 @@ due to size constraints, dataset is omitted from this repo. You can download dat
 
 > This directory contains trained weights so you won't need to train it again
 
-[![detection]()](./doc/detection.mp4)
+
+
+https://github.com/vivekkj123/pothole-tracker/assets/58988126/1d44f2e8-49b6-4d05-b6f1-e67602b31e9c
+
+
 
 
 ## ./Pothole-map
