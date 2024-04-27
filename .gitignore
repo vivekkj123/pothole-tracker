@@ -35,7 +35,6 @@ darknet/ninja.zip
 darknet/vcpkg_installed/
 darknet/!build/darknet/YoloWrapper.cs
 darknet/.fuse*
-darknet/*.weights
 darknet/build/*.cmake
 darknet/build/*.ninja
 darknet/build/*.txt

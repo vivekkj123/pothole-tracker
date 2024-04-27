@@ -22,7 +22,8 @@ due to size constraints, dataset is omitted from this repo. You can download dat
 
 > This directory contains trained weights so you won't need to train it again
 
-![detection](./doc/detection.mp4)
+[![detection]()](./doc/detection.mp4)
+
 
 ## ./Pothole-map
 
